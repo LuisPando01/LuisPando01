@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>How Does a Bike-Share Navigate Speedy Success?</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Analysis with R programming](https://github.com/LuisPando01/LuisPando01.github.io/tree/main/Case%20Study%20-%20%20How%20Does%20a%20Bike-Share%20Navigate%20Speedy%20Success)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
