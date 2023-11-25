@@ -1,5 +1,5 @@
 #Import data
-Clean_trip_data <- read.csv("~/MEGA/ESTUDIOS PERSONALES/ESTUDIOS DE CARRERA (MI CARRERA)/Google Data Analytics/08Case Study/Dataset/2022_Data_Cyclistic/Clean_trip_data.csv")
+Clean_trip_data <- read.csv("Clean_trip_data.csv")
 
 #Review the data
 View(head(Clean_trip_data))
