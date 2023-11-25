@@ -41,4 +41,4 @@ Clean_trip_data <- Clean_trip_data %>%
   select(rideable_type, member_casual, month, year, time, started_at, week_day, ride_length)
 
 #Save the cleaned data
-write.csv(Clean_trip_data,file = "~/MEGA/ESTUDIOS PERSONALES/ESTUDIOS DE CARRERA (MI CARRERA)/Google Data Analytics/08Case Study/Dataset/2022_Data_Cyclistic/Clean_trip_data.csv",row.names = FALSE)
+write.csv(Clean_trip_data,file = "Clean_trip_data.csv",row.names = FALSE)
