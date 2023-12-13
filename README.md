@@ -3,10 +3,12 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
+
   - [Data Exploration with SQL](https://github.com/LuisPando01/Covid_Data_Exploration_with_SQL)
   - [Data Cleaning with SQL](https://github.com/LuisPando01/Housing_Data_Cleaning_with_SQL)
   - [Data Analysis with R programming](https://github.com/LuisPando01/Data_Analysis_with_R)
   - [Data Visualization with Power BI](https://github.com/LuisPando01/Data_Visualization_in_PowerBI)
+    
 - <b>Data Science</b>
   - 
 
