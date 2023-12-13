@@ -11,6 +11,11 @@
     
 - <b>Data Science</b>
 
+  - [Numeric Prediction Regression]()
+  - [Decision Tree Classification Model]()
+  - [Naive Bayer Classification]()
+  - [Association Rule Mining]()
+  
  <h2>📄 Certifications:</h2>
 
 - [Google Data Analyst](https://www.coursera.org/account/accomplishments/specialization/F7EUSBJACC5R)
