@@ -13,7 +13,7 @@
 
  <h2>📄 Certifications:</h2>
 
-- [Google Data Analyst]
+- [Google Data Analyst](https://www.coursera.org/account/accomplishments/specialization/F7EUSBJACC5R)
 
 <h2> 🤳 Connect with me:</h2>
 
