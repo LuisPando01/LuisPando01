@@ -10,7 +10,6 @@
   - [Data Visualization with Power BI](https://github.com/LuisPando01/Data_Visualization_in_PowerBI)
     
 - <b>Data Science</b>
-  - 
 
  <h2>📄 Certifications:</h2>
 
