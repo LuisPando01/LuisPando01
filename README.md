@@ -11,9 +11,9 @@
     
 - <b>Data Science</b>
 
-  - [Numeric Prediction Regression]()
-  - [Decision Tree Classification Model]()
-  - [Naive Bayer Classification]()
+  - [Numeric Prediction Regression](https://github.com/LuisPando01/Numeric_Prediction_Regression)
+  - [Decision Tree Classification Model](https://github.com/LuisPando01/Decision_Tree_Classification)
+  - [Naive Bayer Classification](https://github.com/LuisPando01/Naive_Bayes_Classification)
   - [Association Rule Mining]()
   
  <h2>📄 Certifications:</h2>
