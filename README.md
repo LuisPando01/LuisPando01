@@ -1,7 +1,8 @@
 <h1>Hi, I'm Luis! <br/><a href="https://github.com/LuisPando01">Data Analyst</a>, <a href="https://www.linkedin.com/in/luispando/">Business Engineering</a></h1>
 
 <b>
-Business Engineer with 2 years of experience on internal customer service, KPI creation and data analysis. Proficient in the development of information systems and creating data driven solutions.
+Business Engineer from Universidad del Pacífico with 3 years of experience in data analysis, KPI creation and presentation and budget management. Interest in Strategic Planning, Business Intelligence,
+data analysis and process improvement. Ability in creating solutions with a digital approach, datadriven and Data Analytics.
 In this Github page I want to show you the projects I have made.
 </b>
 
