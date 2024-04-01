@@ -20,7 +20,7 @@ In this Github page I want to show you the projects I have made.
   - [Numeric Prediction Regression](https://github.com/LuisPando01/Numeric_Prediction_Regression)
   - [Decision Tree Classification Model](https://github.com/LuisPando01/Decision_Tree_Classification)
   - [Naive Bayer Classification](https://github.com/LuisPando01/Naive_Bayes_Classification)
-  - [Association Rule Mining]()
+  - [Association Rule Mining](https://github.com/LuisPando01/Association-Rule-Mining)
   
  <h2>📄 Certifications:</h2>
 
