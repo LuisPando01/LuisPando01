@@ -15,7 +15,7 @@ In this Github page I want to show you the projects I have made.
   - [Data Analysis with R programming](https://github.com/LuisPando01/Data_Analysis_with_R)
   - [Data Visualization with Power BI](https://github.com/LuisPando01/Data_Visualization_in_PowerBI)
     
-- <b>Data Science</b>
+- <b>Data Science with R</b>
 
   - [Numeric Prediction Regression](https://github.com/LuisPando01/Numeric_Prediction_Regression)
   - [Decision Tree Classification Model](https://github.com/LuisPando01/Decision_Tree_Classification)
